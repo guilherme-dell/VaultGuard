@@ -1,2 +1,2 @@
 # VaultGuard
-A tool to backup Obsidian vaults
+A tool to backup Obsidian vaults.
